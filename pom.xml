@@ -21,7 +21,7 @@
         <frontend-maven-plugin.version>1.10.0</frontend-maven-plugin.version>
         <bytebuddy.version>1.10.8</bytebuddy.version>
         <bouncycastle.version>1.64</bouncycastle.version>
-        <httpclient.version>4.5.12</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <hsqldb.version>2.5.0</hsqldb.version>
         <jakarta.version>2.3.2</jakarta.version>
         <lombok.version>1.18.20</lombok.version>
